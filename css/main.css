@@ -140,13 +140,13 @@
     
     .submit-{
         text-align: center;
-        padding-bottom: 125px;
+        padding-bottom: 170px;
     }
     .back-button{
         margin-left: 1100px;
     }
 
- /*Suma de Matrices**/
+ /*Suma de Matrices 3x3**/
  .suma3x3-menu{
     display: inline-flex;
     justify-content: center;
@@ -160,7 +160,19 @@
  .result-suma3x3{
     padding: 10px;
  }
-    
+ /*Suma de Matrices 3x3**/
+
+    .basic2x2-menu{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .basic2x2{
+        padding: 10px;
+    }
+    .result-basic2x2{
+        padding: 10px;
+    }
 /*Tables**/
 .tg  {
     border-collapse:collapse;border-spacing:0;
