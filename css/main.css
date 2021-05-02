@@ -127,11 +127,8 @@
 /*Determinantes**/
     .determinante-menu {
         display: flex;
-        flex-wrap: wrap;
-        flex-direction: row;
         justify-content: center;
         align-items: center;
-        align-content: center
     }
     .matriz3x3{
         padding: 50px;
@@ -143,19 +140,30 @@
     
     .submit-{
         text-align: center;
-        padding-bottom: 170px;
+        padding-bottom: 140px;
     }
+
+    .submit-3x3{
+        text-align: center;
+        padding-bottom: 51px;
+    }
+
     .back-button{
         margin-left: 1100px;
     }
 
  /*Suma de Matrices 3x3**/
  .suma3x3-menu{
-    display: inline-flex;
+    display: flex;
+    flex-wrap: wrap;
     justify-content: center;
     align-items: center;
     align-content: center;
-
+    width: 170vh;
+    height: 40vh;
+    overflow: hidden;
+    flex-direction: row;
+    margin-left: 11vh;
  }
  .suma3x3{
     padding: 10px;
