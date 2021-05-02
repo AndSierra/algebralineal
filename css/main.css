@@ -127,8 +127,11 @@
 /*Determinantes**/
     .determinante-menu {
         display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
         justify-content: center;
         align-items: center;
+        align-content: center
     }
     .matriz3x3{
         padding: 50px;
