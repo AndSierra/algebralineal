@@ -4,7 +4,11 @@
 <head>
     <meta charset='utf-8'>
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+<<<<<<< HEAD:2x2/2x2resta.php
     <title>Resta de matrices 2x2 </title>
+=======
+    <title>Transpuesta 2x2</title>
+>>>>>>> 511f1a6aa767b53fba9ec889d4d5aa08349d65c8:2x2/2x2transpuesta.html
     <meta name='viewport' content='width=device-width, initial-scale=1'>
     <link rel='stylesheet' type='text/css' media='screen' href='../css/main.css'>
         <!-- Google Font-->
@@ -20,7 +24,11 @@
     </div>
     <div>
         <div class="Tittle-Main">
+<<<<<<< HEAD:2x2/2x2resta.php
             <h1 class="animate__animated animate__fadeInUp">Resta de matrices 2x2</h1>
+=======
+            <h1 class="animate__animated animate__fadeInUp">Transpuesta</h1>
+>>>>>>> 511f1a6aa767b53fba9ec889d4d5aa08349d65c8:2x2/2x2transpuesta.html
         </div>
         <div class="basic2x2-menu">
             <div class="basic2x2">
@@ -28,6 +36,7 @@
                     <table class="tg">
                         <tbody>
                             <tr>
+<<<<<<< HEAD:2x2/2x2resta.php
                             <th class="tg-0pky"><input type="number" name="na1" max="10000"></th>
                             <th class="tg-0pky"><input type="number" name="na2" max="10000"></th>
                           </tr>
@@ -49,6 +58,14 @@
                           <tr>
                             <td class="tg-0lax"><input type="number" name="nb3" max="10000"></td>
                             <td class="tg-0lax"><input type="number" name="nb4" max="10000"></td>
+=======
+                            <th class="tg-0pky"><input type="number" name="name" max="10000"></th>
+                            <th class="tg-0pky"><input type="number" name="name" max="10000"></th>
+                          </tr>
+                          <tr>
+                            <td class="tg-0lax"><input type="number" name=" name" max="10000"></td>
+                            <td class="tg-0lax"><input type="number" name="name" max="10000"></td>
+>>>>>>> 511f1a6aa767b53fba9ec889d4d5aa08349d65c8:2x2/2x2transpuesta.html
                           </tr>
                         </tbody>
                     </table>
@@ -78,12 +95,21 @@
                     <table class="tg">
                         <tbody>
                             <tr>
+<<<<<<< HEAD:2x2/2x2resta.php
                             <th class="tg-0pky"><input type="number" value="<?php echo $m1 ?>" max="10000"></th>
                             <th class="tg-0pky"><input type="number" value="<?php echo $m2 ?>" max="10000"></th>
                           </tr>
                           <tr>
                             <td class="tg-0lax"><input type="number" value="<?php echo $m3 ?>" max="10000"></td>
                             <td class="tg-0lax"><input type="number" value="<?php echo $m4 ?>" max="10000"></td>
+=======
+                            <th class="tg-0pky"><input type="number" name="name" max="10000"></th>
+                            <th class="tg-0pky"><input type="number" name="name" max="10000"></th>
+                          </tr>
+                          <tr>
+                            <td class="tg-0lax"><input type="number" name=" name" max="10000"></td>
+                            <td class="tg-0lax"><input type="number" name="name" max="10000"></td>
+>>>>>>> 511f1a6aa767b53fba9ec889d4d5aa08349d65c8:2x2/2x2transpuesta.html
                           </tr>
                         </tbody>
                     </table>
@@ -98,8 +124,13 @@
                     </a>
             </div>
             <div class="back-button">  
+<<<<<<< HEAD:2x2/2x2resta.php
                 <a href="../2x2-main.html">
                     <img src="../img/1x/undo_white_24dp.svg" class="Button-home">
+=======
+                <a href="..\2x2-main.html">
+                    <img src="..\img\1x\undo_white_24dp.svg" class="Button-home">
+>>>>>>> 511f1a6aa767b53fba9ec889d4d5aa08349d65c8:2x2/2x2transpuesta.html
                     </a>
             </div>
 

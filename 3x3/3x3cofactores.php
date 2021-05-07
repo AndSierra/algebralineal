@@ -97,6 +97,12 @@
             </div>
 
         </div> 
+<<<<<<< HEAD:3x3/3x3cofactores.php
+=======
+        <div class="submit-3x3">
+            <button type="submit" form="form1" value="Submit">Calcular</button>
+        </div>
+>>>>>>> 511f1a6aa767b53fba9ec889d4d5aa08349d65c8:3x3/3x3suma.html
 
         <div class="Sub-menu">
             <div>

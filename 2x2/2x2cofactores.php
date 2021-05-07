@@ -28,12 +28,21 @@
                     <table class="tg">
                         <tbody>
                             <tr>
+<<<<<<< HEAD:2x2/2x2cofactores.php
                             <th class="tg-0pky"><input type="number" name="n1" max="10000"></th>
                             <th class="tg-0pky"><input type="number" name="n2" max="10000"></th>
                           </tr>
                           <tr>
                             <td class="tg-0lax"><input type="number" name="n3" max="10000"></td>
                             <td class="tg-0lax"><input type="number" name="n4" max="10000"></td>
+=======
+                            <th class="tg-0pky"><input type="number" name="name" max="10000"></th>
+                            <th class="tg-0pky"><input type="number" name="name" max="10000"></th>
+                          </tr>
+                          <tr>
+                            <td class="tg-0lax"><input type="number" name=" name" max="10000"></td>
+                            <td class="tg-0lax"><input type="number" name="name" max="10000"></td>
+>>>>>>> 511f1a6aa767b53fba9ec889d4d5aa08349d65c8:2x2/2x2cofactores.html
                           </tr>
                         </tbody>
                     </table>
@@ -60,12 +69,21 @@
                     <table class="tg">
                         <tbody>
                             <tr>
+<<<<<<< HEAD:2x2/2x2cofactores.php
                             <th class="tg-0pky"><input type="number" value="<?php echo $ca1 ?>" max="10000"></th>
                             <th class="tg-0pky"><input type="number" value="<?php echo $ca2 ?>" max="10000"></th>
                           </tr>
                           <tr>
                             <td class="tg-0lax"><input type="number" value="<?php echo $cb1 ?>" max="10000"></td>
                             <td class="tg-0lax"><input type="number" value="<?php echo $cb2 ?>" max="10000"></td>
+=======
+                            <th class="tg-0pky"><input type="number" name="name" max="10000"></th>
+                            <th class="tg-0pky"><input type="number" name="name" max="10000"></th>
+                          </tr>
+                          <tr>
+                            <td class="tg-0lax"><input type="number" name=" name" max="10000"></td>
+                            <td class="tg-0lax"><input type="number" name="name" max="10000"></td>
+>>>>>>> 511f1a6aa767b53fba9ec889d4d5aa08349d65c8:2x2/2x2cofactores.html
                           </tr>
                         </tbody>
                     </table>
@@ -80,8 +98,13 @@
                     </a>
             </div>
             <div class="back-button">  
+<<<<<<< HEAD:2x2/2x2cofactores.php
                 <a href="../2x2-main.html">
                     <img src="../img/1x/undo_white_24dp.svg" class="Button-home">
+=======
+                <a href="..\2x2-main.html">
+                    <img src="..\img\1x\undo_white_24dp.svg" class="Button-home">
+>>>>>>> 511f1a6aa767b53fba9ec889d4d5aa08349d65c8:2x2/2x2cofactores.html
                     </a>
             </div>
 

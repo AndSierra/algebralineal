@@ -4,7 +4,7 @@
 <head>
     <meta charset='utf-8'>
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
-    <title>Multiplicacion de matrices 3x3 </title>
+    <title>Multiplicacion de matrices 2x2 </title>
     <meta name='viewport' content='width=device-width, initial-scale=1'>
     <link rel='stylesheet' type='text/css' media='screen' href='../css/main.css'>
         <!-- Google Font-->
@@ -20,8 +20,9 @@
     </div>
     <div>
         <div class="Tittle-Main">
-            <h1 class="animate__animated animate__fadeInUp">Multiplicacion de matrices 3x3</h1>
+            <h1 class="animate__animated animate__fadeInUp">Multiplicacion de matrices 2x2</h1>
         </div>
+<<<<<<< HEAD:3x3/3x3multiplicacion.php
         <div class="suma3x3-menu">
             <div class="suma3x3">
                 <form action="3X3multiplicacion.php" method="POST">
@@ -41,11 +42,26 @@
                             <td class="tg-0lax"><input type="number" name="n7" max="10000"></td>
                             <td class="tg-0lax"><input type="number" name="n8" max="10000"></td>
                             <td class="tg-0lax"><input type="number" name="n9" max="10000"></td>
+=======
+        <div class="basic2x2-menu">
+            <div class="basic2x2">
+                <form action="#" method="get">
+                    <table class="tg">
+                        <tbody>
+                            <tr>
+                            <th class="tg-0pky"><input type="number" name="name" max="10000"></th>
+                            <th class="tg-0pky"><input type="number" name="name" max="10000"></th>
+                          </tr>
+                          <tr>
+                            <td class="tg-0lax"><input type="number" name=" name" max="10000"></td>
+                            <td class="tg-0lax"><input type="number" name="name" max="10000"></td>
+>>>>>>> 511f1a6aa767b53fba9ec889d4d5aa08349d65c8:2x2/2x2multiplicacion.html
                           </tr>
                         </tbody>
                     </table>
             </div>
             <hi class="equal">*</hi>
+<<<<<<< HEAD:3x3/3x3multiplicacion.php
             <div class="suma3x3">
                     <table class="tg">
                         <tbody>
@@ -63,6 +79,19 @@
                             <td class="tg-0lax"><input type="number" name="n16" max="10000"></td>
                             <td class="tg-0lax"><input type="number" name="n17" max="10000"></td>
                             <td class="tg-0lax"><input type="number" name="n18" max="10000"></td>
+=======
+            <div class="basic2x2">
+                <form action="#" method="get">
+                    <table class="tg">
+                        <tbody>
+                            <tr>
+                            <th class="tg-0pky"><input type="number" name="name" max="10000"></th>
+                            <th class="tg-0pky"><input type="number" name="name" max="10000"></th>
+                          </tr>
+                          <tr>
+                            <td class="tg-0lax"><input type="number" name=" name" max="10000"></td>
+                            <td class="tg-0lax"><input type="number" name="name" max="10000"></td>
+>>>>>>> 511f1a6aa767b53fba9ec889d4d5aa08349d65c8:2x2/2x2multiplicacion.html
                           </tr>
                         </tbody>
                     </table>
@@ -105,11 +134,12 @@
             </div>
             <!--<img class="equal" src="img/igual.PNG" alt="igual">-->
             <hi class="equal">=</hi>
-            <div class="result-suma3x3">
+            <div class="result-basic2x2">
                 <form action="#" method="post">
                     <table class="tg">
                         <tbody>
                             <tr>
+<<<<<<< HEAD:3x3/3x3multiplicacion.php
                             <th class="tg-0pky"><input type="number" value="<?php echo $m1; ?>" max="10000"></th>
                             <th class="tg-0pky"><input type="number" value="<?php echo $m2; ?>" max="10000"></th>
                             <th class="tg-0pky"><input type="number" value="<?php echo $m3; ?>" max="10000"></th>
@@ -123,6 +153,14 @@
                             <td class="tg-0lax"><input type="number" value="<?php echo $m7; ?>" max="10000"></td>
                             <td class="tg-0lax"><input type="number" value="<?php echo $m8; ?>" max="10000"></td>
                             <td class="tg-0lax"><input type="number" value="<?php echo $m9; ?>" max="10000"></td>
+=======
+                            <th class="tg-0pky"><input type="number" name="name" max="10000"></th>
+                            <th class="tg-0pky"><input type="number" name="name" max="10000"></th>
+                          </tr>
+                          <tr>
+                            <td class="tg-0lax"><input type="number" name=" name" max="10000"></td>
+                            <td class="tg-0lax"><input type="number" name="name" max="10000"></td>
+>>>>>>> 511f1a6aa767b53fba9ec889d4d5aa08349d65c8:2x2/2x2multiplicacion.html
                           </tr>
                         </tbody>
                     </table>
@@ -139,8 +177,13 @@
                     </a>
             </div>
             <div class="back-button">  
+<<<<<<< HEAD:3x3/3x3multiplicacion.php
                 <a href="../3x3-main.html">
                     <img src="../img/1x/undo_white_24dp.svg" class="Button-home">
+=======
+                <a href="..\2x2-main.html">
+                    <img src="..\img\1x\undo_white_24dp.svg" class="Button-home">
+>>>>>>> 511f1a6aa767b53fba9ec889d4d5aa08349d65c8:2x2/2x2multiplicacion.html
                     </a>
             </div>
 
